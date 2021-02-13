@@ -10,6 +10,10 @@
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5283745"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## Racing Bar Chart
+
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/5283936"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 
 
