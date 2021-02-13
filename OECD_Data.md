@@ -14,7 +14,7 @@ This is a grid line chart showing a trend line of Debt to GDP ratio of all the O
 
 ## Racing Bar Chart
 
-This is a Racing Bar Chart to focus on countries which have the highest Debt to GDP ratio in a particular year and also see if any country rapidly changed its position.
+This is a Racing Bar Chart to focus on countries which have the highest Debt to GDP ratio in a particular year and see the changes with time. 
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/5283936"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
