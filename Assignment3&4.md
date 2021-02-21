@@ -2,4 +2,4 @@
 
 [Article](/http://www.oecd.org/coronavirus/en/)
 
-![](/VizChosen.jpg)
+![](/VizChosen.JPG)
