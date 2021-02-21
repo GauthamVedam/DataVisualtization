@@ -41,4 +41,16 @@ The viz shows that Household income rose in 2020 Q2 while GDP per capita decreas
 ![](/Wireframe.jpg)
 
 
+### Redesigned Viz first Attempt: 
+
+![](/Redesign.jpg)
+
+FeedBack from friend 1: 
+
+* A lot of empty space below 70 since there are no values there.
+* Color selection gives more importance to Household Income. 
+
+### Redesign After feedback: 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/5359304"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
