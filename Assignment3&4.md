@@ -56,7 +56,10 @@ For the following categories on a scale of 1 to 10, the score for the viz above 
 
 ### Redesigned Viz first Attempt: 
 
+
 ![](/Redesign.JPG)
+
+
 
 FeedBack from friend 1: 
 
@@ -69,11 +72,16 @@ Feedback from friend 2:
 * Lines squashed together, can be separated better.
 * GDP seems faded out due to lighter color. 
 
+
 ### Redesign After feedback: 
+
+
 
 **Household income increases in 2020 Q3 despite Fall in GDP due to Policy Changes.**
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5359304"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
 
 ## The Process: 
 
