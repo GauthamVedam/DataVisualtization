@@ -52,8 +52,9 @@ FeedBack from friend 1:
 
 ### Redesign After feedback: 
 
+**Household income increases in 2020 Q3 despite Fall in GDP due to Policy Changes.**
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/5359304"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-**Household income increases in 2020 Q3 despite Fall in GDP due to Policy Changes.**
 
 <- [Return to Portfolio](/README.md)
