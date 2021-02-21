@@ -43,7 +43,7 @@ The viz shows that Household income rose in 2020 Q2 while GDP per capita decreas
 
 ### Redesigned Viz first Attempt: 
 
-![](/Redesign.jpg)
+![](/Redesign.JPG)
 
 FeedBack from friend 1: 
 
