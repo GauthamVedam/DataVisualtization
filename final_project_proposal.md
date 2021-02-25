@@ -20,6 +20,18 @@ To summarize, I want my audience to be aware of the **seriousness and scale of C
 
 ## 2. Initial Sketches: 
 
+![](/proposal_1.jpg)
+
+![](/proposal_2.jpg)
+
+![](/proposal_3.jpg)
+
+![](/proposal_4.jpg)
+
+![](/proposal_5.jpg)
+
+![](/proposal_6.jpg)
+
 ## 3. Data: 
 
 [The Centre for Disease Control and Prevention](https://www.cdc.gov/chronicdisease/index.htm) has all the information related to chronic diseases from images, inforgraphics, and datasets related to chronic diseases in the US. 
