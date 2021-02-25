@@ -13,10 +13,9 @@ This includes being able to create good visualizations using tools like Tableau,
 ## Portfolio: 
 Here is where my work will be displayed
 
-## Working with OECD Data
+[Working with OECD Data](/OECD_Data.md)
 
-[OECD Data](/OECD_Data.md)
+[Assignment 3 and 4:](/Assignment3&4.md)
 
-## Assignment 3 and 4: 
+[Project Proposal:](/final_project_proposal.md)
 
-[Goto Assigment3&4](/Assignment3&4.md)
