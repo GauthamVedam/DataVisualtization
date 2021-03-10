@@ -3,7 +3,6 @@
 
 
 ![](/ChronicDiseaseIntro.JPG)
-![](/proposal_1.jpg)
 Chronic Diseases are conditions that last **1 Year or more ** 
 
 
