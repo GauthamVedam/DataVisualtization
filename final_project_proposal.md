@@ -67,5 +67,5 @@ This project will be completed in 3 phases:
  
 As listed above, I will be using **Shortand** to present my work and for data vizualizations, I will be using **Tableau and RawGraphs.**
 
-
+[-> Check out Part II](/README.md)
 [<- Back to Protfolio](/README.md)
