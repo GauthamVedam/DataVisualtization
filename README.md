@@ -19,3 +19,6 @@ Here is where my work will be displayed
 
 3. [Project Proposal](/final_project_proposal.md)
 
+4. [Project Part II](/Final_Project_PartII.md)
+
+
