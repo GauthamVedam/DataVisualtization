@@ -1,11 +1,10 @@
-
-1.Introduction: 
+##Introduction: 
 
 
 ![](/ChronicDiseaseIntro.JPG)
 
 
-## Chronic Diseases are conditions that last **1 Year or more ** 
+## Chronic Diseases are conditions that last 1 Year or more 
 
 
 
@@ -25,8 +24,7 @@
 
 
 
-**Heatlh care spending by chronic conditions ** 
-
+**Heatlh care spending by chronic conditions** 
 
 
 ![](/stast3.jpg)
@@ -65,4 +63,37 @@ Since this is broad area, I want people from different age groups to be involved
 
 5. Is the call to action clear?
 
+## Findings from Interview: 
 
+1. Could you summarize the idea behing the story?
+
+* Chronic diseases are serious and should be avoided
+* Avoid chronic diseases or youll end up paying a lot
+* Chronic diseases are more common than I was aware of
+
+2. Do you connect with it on a personal level?
+
+* No, Since I am not a US citizen
+* Yes, I want to have a healthier life
+* Yes, Looks very serious
+
+3. What else would you have like to see, to make it more effective?
+
+* More vizualizations, I want to know more about different categories
+* Leading diseases and more vizualizations
+
+4. Are the viualizations effective?
+Everyone agreed that they were, with feedback to make legend more clearer. 
+
+5. Is the call to action clear?
+Yes but can be made more appealing.
+
+## Changes Planned: 
+
+1. Add more information about the leading diseases, the economic costs of the diseases
+2. Improve vizualizations by redesigning
+3. Focus on a clearer Call to Action
+4. Focus on the message that simple changes can lead to better health.
+
+[<- Back to Part I](/README.md)
+[<- Back to Protfolio](/README.md)
