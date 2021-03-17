@@ -21,7 +21,7 @@ Some of the vizualizations I used in my final project are:
 **US adults with chronic diseases by number of chronic diseases**
 
 
-![](/stat.jpg)
+![](/stat.JPG)
 
 source: https://www.rand.org/content/dam/rand/pubs/tools/TL200/TL221/RAND_TL221.pdf
 
@@ -38,7 +38,7 @@ source: https://www.rand.org/content/dam/rand/pubs/tools/TL200/TL221/RAND_TL221.
 
 **Costs of Chronic Disease**
 
-![](/info.jpg)
+![](/info.JPG)
 
 
 The tools I used for the vizualizations were Flourish studio and DataWrapper. To publish my story I used Shorthand. All these tools were very new to me, since I have mostly used python packages like Matplotlib and Seaborn for all my vizualization needs. 
