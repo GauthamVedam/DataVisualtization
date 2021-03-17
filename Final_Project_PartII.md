@@ -95,5 +95,8 @@ Yes but can be made more appealing.
 3. Focus on a clearer Call to Action
 4. Focus on the message that simple changes can lead to better health.
 
-[<- Back to Part I](/README.md)
+[-> Go to Part III](/Final_Project_PartIII.md)
+
+[<- Back to Part I](/final_project_proposal)
+
 [<- Back to Protfolio](/README.md)
