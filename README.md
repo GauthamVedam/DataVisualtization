@@ -21,4 +21,7 @@ Here is where my work will be displayed
 
 4. [Project Part II](/Final_Project_PartII.md)
 
+5. [Project Part III](/Final_Project_PartIII.md)
+
+6. [Chronic Diseases: Everybody's Business](https://carnegiemellon.shorthandstories.com/chronic-diseases/index.html)
 
