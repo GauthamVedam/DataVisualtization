@@ -14,14 +14,14 @@ One particular feedback that I could not include in my project was to include a 
 After finishing the project, I realized a natural progression towards a more specific topic **Successful Interventions for Chronic Diseases**. Interventions are supposed to be the future of healthcare and a major area of focus for pharmaceutical firms and insurance providers alike. 
 Hence, I will expand on this introduction to Chronic Diseases to show the current state and future of Clinical Interventions, in a sequel to this project. 
 
-Coming back to this project, I used vizualizations which were the most simple and effective to convey the message I inteded to convey, like bar charts, pie charts etc. 
+Coming back to this project, I used vizualizations which were the most simple and effective to convey the message I inteded to convey, like bar charts, pie charts etc. I wanted to incorporate elements like the cost of chronic diseases to create a narrative and make my story more effective as this was a feedback I received in part II.
 
 Some of the vizualizations I used in my final project are: 
 
 **US adults with chronic diseases by number of chronic diseases**
 
-
-![](/stat.JPG)
+<iframe title="12% of US Adults have 5 or more Chronic Conditions" aria-label="chart" id="datawrapper-chart-yDHEZ" src="https://datawrapper.dwcdn.net/yDHEZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="410"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
 source: https://www.rand.org/content/dam/rand/pubs/tools/TL200/TL221/RAND_TL221.pdf
 
