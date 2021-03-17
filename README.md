@@ -2,13 +2,14 @@
 
 ## About me: 
 
-I am a masters student at CMU Heinz College. To know more please checkout gauthamvedam.com
+I am a masters student at Carnegie Mellon University. This is my public portfolio for Telling Stories with Data class in Spring 2021. 
+As I build up my data vizualization skills, this portfolio will be a good reminder of the progress that I made and learnings along the way. 
 
 ## What I hope to learn: 
 
-I hope to learn good data visualization techniques through this exercise. 
+At CMU,   my focus areas include leveraging Machine Learning in various applications, Distributed Systems, Database Design. I lack an artistic touch in my vizulizations and often produce charts that are just enough to convey the information that information that I want to. During this course, I hope to imporve my story telling skills along with knowing the fundamentals of a good vizualization and being able to produce some.  
 
-This includes being able to create good visualizations using tools like Tableau, understanding what a good visualization is and able to constructively critique a vizualization. 
+I am aware that this course will be a challenging one for me, since I cannot code my way through this but I look forward to the challenge and excited for the learning ahead. 
 
 ## Portfolio: 
 Here is where my work will be displayed
