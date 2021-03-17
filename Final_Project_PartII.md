@@ -97,6 +97,4 @@ Yes but can be made more appealing.
 
 [-> Go to Part III](/Final_Project_PartIII.md)
 
-[<- Back to Part I](/final_project_proposal)
-
 [<- Back to Protfolio](/README.md)
